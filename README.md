@@ -3,7 +3,7 @@
 ## Setup
 
 1. Create virtual environment (optional)
-python -m venv venv
+python -m venv env
 venv\Scripts\activate
 
 2. Install dependencies
