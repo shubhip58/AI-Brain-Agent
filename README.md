@@ -4,7 +4,7 @@
 
 1. Create virtual environment (optional)
 python -m venv env
-venv\Scripts\activate
+env\Scripts\activate
 
 2. Install dependencies
 pip install -r requirements.txt
